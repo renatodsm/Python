@@ -1,4 +1,4 @@
-# Sistema Bancário Simples em Python
+# Sistema Bancário em Python
 **Autor**: Renato Mesquita
 
 **Data**: 14/07/2024
